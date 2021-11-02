@@ -1,0 +1,126 @@
+[33mcommit d66a6184546a5dc83d9e9a96d47ff1fbe7af394c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 134b35f 2f520a5
+Author: adreddys5 <adreddys5@gmail.com>
+Date:   Tue Nov 2 09:03:40 2021 +0000
+
+    Merge branch 'development'
+
+[33mcommit 2f520a532f632167424f8d26cc15cdbe851f95b9[m[33m ([m[1;32mdev[m[33m)[m
+Author: adreddys5 <adreddys5@gmail.com>
+Date:   Tue Nov 2 08:59:25 2021 +0000
+
+    string.sh
+
+[33mcommit 134b35f09c63d402ed809ce03603afec3923f565[m
+Author: adreddys5 <adreddys5@gmail.com>
+Date:   Tue Nov 2 05:21:00 2021 +0000
+
+    Revert "revert"
+    
+    This reverts commit 34a66ec64366611874c06b1cca20b0231b2f8b39.
+
+[33mcommit 34a66ec64366611874c06b1cca20b0231b2f8b39[m
+Author: adreddys5 <adreddys5@gmail.com>
+Date:   Tue Nov 2 05:18:52 2021 +0000
+
+    revert
+
+[33mcommit cd9062aceff697a9b10b82d556d6b242b53e1642[m
+Author: adreddys5 <adreddys5@gmail.com>
+Date:   Tue Nov 2 02:52:02 2021 +0000
+
+     final Commit
+
+[33mcommit 41a9da84f67f2919fabd60be7a429fd7e3c30066[m
+Merge: d1c1821 d242e45
+Author: adreddys5 <adreddys5@gmail.com>
+Date:   Fri Oct 29 10:03:10 2021 +0000
+
+    conflict
+
+[33mcommit d242e4557229f56d61723b19ed8941c4322454e8[m
+Author: adreddys5 <adreddys5@gmail.com>
+Date:   Fri Oct 29 09:53:07 2021 +0000
+
+    updated dev
+
+[33mcommit d1c182120e3c3d9cffe29ab167a1306226777180[m
+Author: adreddys5 <adreddys5@gmail.com>
+Date:   Fri Oct 29 09:48:18 2021 +0000
+
+    updated in  master
+
+[33mcommit 2afda8beaac2470d821c46d5bcb8a4fc2092155f[m
+Author: adreddys5 <adreddys5@gmail.com>
+Date:   Fri Oct 29 09:30:47 2021 +0000
+
+    stringfile
+
+[33mcommit 971f58a45dc123d4400d01a245b09b6bf99c402c[m
+Merge: c564bbf d5aafab
+Author: adreddys5 <adreddys5@gmail.com>
+Date:   Fri Oct 29 08:59:09 2021 +0000
+
+    Updated
+
+[33mcommit c564bbf4a6aeca2cb7a1764feff3dda5a7d6a15c[m
+Author: adreddys5 <adreddys5@gmail.com>
+Date:   Fri Oct 29 08:52:50 2021 +0000
+
+    git ignore added
+
+[33mcommit 9e9c97359f508fbeeb443a8cf81849c811560bab[m
+Author: adreddys5 <adreddys5@gmail.com>
+Date:   Fri Oct 29 08:33:56 2021 +0000
+
+    deploy.sh
+
+[33mcommit c9cb23fb7befbd6b24cd542f791dda67e1550ab2[m
+Author: adreddys5 <adreddys5@gmail.com>
+Date:   Thu Oct 28 10:02:47 2021 +0000
+
+    Update commit
+
+[33mcommit e16055e17f94600f2036694bf7dcc5b6df848fea[m
+Author: adreddys5 <adreddys5@gmail.com>
+Date:   Thu Oct 28 09:08:52 2021 +0000
+
+    added
+
+[33mcommit 003969913ddce21a92af9c92e7e976513b48a724[m
+Author: adreddys5 <adreddys5@gmail.com>
+Date:   Thu Oct 28 08:45:57 2021 +0000
+
+    revereted by baskar
+
+[33mcommit d5aafab23497b874b8a865766b9e452a9d604d61[m
+Author: adreddys5 <adreddys5@gmail.com>
+Date:   Thu Oct 28 08:45:57 2021 +0000
+
+    Reverted... Revert "Adde test.py"
+    
+    This reverts commit b6e1d7175aae3a721f17e04680186a987dc589ef.
+
+[33mcommit b6e1d7175aae3a721f17e04680186a987dc589ef[m
+Author: adreddys5 <adreddys5@gmail.com>
+Date:   Thu Oct 28 06:15:16 2021 +0000
+
+    Adde test.py
+
+[33mcommit 7a44552fb4861852e90fc86b3f646fdcf69af9cc[m
+Author: adreddys5 <adreddys5@gmail.com>
+Date:   Thu Oct 28 05:52:19 2021 +0000
+
+    added deploy.sh
+
+[33mcommit 7408c3d8c815a2308df9894c55cb35b0dcc7c82a[m
+Author: adreddys5 <adreddys5@gmail.com>
+Date:   Thu Oct 28 05:51:09 2021 +0000
+
+     added user.java
+
+[33mcommit 8bec0c1047b681a047e7c55898b85b0ec1adf454[m
+Author: adreddys5 <adreddys5@gmail.com>
+Date:   Wed Oct 27 07:59:10 2021 +0000
+
+    first commit..
